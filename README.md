@@ -1,2 +1,4 @@
-# hyperskills-study
-Projects completed projects from Hyperskills 
+# hyperskills study
+My finished projects from Hyperskills.
+
+
