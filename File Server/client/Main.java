@@ -9,7 +9,7 @@ import util.*;
 class Main {
     private static final int PORT = 4010;
     private static final String IP_ADDRESS = "127.0.0.1";
-    private static final String SAVE_DIR = "[CLIENT_DATA_DIR_PATH]";
+    private static final String SAVE_DIR = "./data/";
 
     public static void main(String[] args) {
         int retryCount = 0;

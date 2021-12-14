@@ -10,7 +10,7 @@ import server.task.*;
 public class Main {
     private static final int PORT = 4010;
     private static final String IP_ADDRESS = "127.0.0.1";
-    private static final String SAVE_DIR = "[SERVER_DATA_DIR_PATH]";
+    private static final String SAVE_DIR = "./data/";
     private static final String MAP_FILE = "ids.txt";
 
     public static void main(String[] args) {

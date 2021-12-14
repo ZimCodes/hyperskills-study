@@ -20,7 +20,7 @@ import server.task.*;
 public class Main {
     private static final String ADDRESS = "127.0.0.1";
     private static final int PORT = 5000;
-    private static final String dbPath = "[SERVER_DATA_DIR_PATH]\\db.json";
+    private static final String dbPath = "./data/db.json";
 
     public static void main(String[] args) {
 
